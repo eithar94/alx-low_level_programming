@@ -21,11 +21,11 @@ int main(void)
 	}
 	else if (n < 0)
 	{
-		printf(n, "is negative \n");
+		printf("%d", n, "is negative \n");
 	}
 	else
 	{
-		printf(n, "is zero \n");
+		printf("%d", n, "is zero \n");
 	}
 
 	return (0);
