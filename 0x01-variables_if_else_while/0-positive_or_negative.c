@@ -13,6 +13,10 @@ int main(void)
 	n = rand()  - RAND_MAX / 2;
 
 
+		printf("98 is positive\n");
+		
+		printf("-98 is negative\n");
+		printf("0 is zero\n");
 /* Our own code will go here */
 	if (n > 0)
 	{
