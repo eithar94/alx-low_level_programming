@@ -12,12 +12,12 @@ int main(void)
 	}
 
 	putchar('\n');
-	char alphABET = 'A';
+	char alph = 'A';
    
-	while (alphABET <= 'Z')
+	while (alph <= 'Z')
 	{
-		putchar(alphABET);
-	        alphABET++;
+		putchar(alph);
+	        alph++;
 	}
 	return (0);
 }
