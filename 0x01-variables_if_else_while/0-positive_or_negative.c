@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* no more header */
-
-/* betty style main doc doc */
+/**
+ *main:?(  p or n prog)?
+ *
+ *
+*/
 int main(void)
 {
 
