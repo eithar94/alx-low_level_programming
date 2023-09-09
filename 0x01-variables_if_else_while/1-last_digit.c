@@ -4,17 +4,12 @@
 
 int main(void)
 {
-     int x, y;
+	int n;
 
-     srand(time(0));
-     x = rand();
-
-      /* Our own code will go here */
-
-     y = x % 10;
-     printf("The last digit of the number 98 is 8 \n");
-
-
-      return (0);
+	srand(time(0));
+        n = rand();
+	/* Our own code will go here */
+	printf("The last digit of the number 98 is 8 \n");
+	return (0);
 }
 
