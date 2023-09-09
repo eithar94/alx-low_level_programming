@@ -3,15 +3,16 @@
 #include <time.h>
 /* no more header */
 
-/* betty style doc */
+/* betty style main doc doc */
 int main(void)
 {
+
 	int n;
 
 	srand(time(0));
 	n = rand()  - RAND_MAX / 2;
 
-	printf("%d \n", n);
+/*printf("%d \n", n);*/
 
 /* Our own code will go here */
 	if (n > 0)
