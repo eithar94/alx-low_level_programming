@@ -1,6 +1,7 @@
 #include "main.h"
 
 int main() {
-  printf("_putchar\n");
-  return 0;
+	_putchar('\n');
+ 
+	return 0;
 }
