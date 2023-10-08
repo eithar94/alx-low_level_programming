@@ -1,1 +1,1 @@
-var 
+ var ad condition
